@@ -1,0 +1,164 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+ }
+ .clear{
+   clear:both;
+ }
+ body{
+   font-family: 'josefin', sans-serif;
+ }
+ nav{
+  background-color: black;
+  height: 60px;
+}
+ nav ul {
+   width: 1170px;
+   margin: 0 auto;
+}
+ nav li{
+   float: left;
+   margin-right: 30px;
+   list-style: none;
+ }
+ nav a {
+   text-decoration: none;
+   color: #A4B2B0;
+ }
+ #titre{
+   padding-top: 14px;
+   font-size: 22px;
+ }
+ .menu{
+   padding-top: 19px;
+
+ }
+ .list{
+   margin-top: 5px;
+ }
+ main{
+   width: 1170px;
+   margin: 0 auto;
+ }
+#titre-colo{
+  padding: 25px 0;
+  font-weight: lighter;
+  font-size:22px;
+}
+
+aside{
+  float:left;
+  width: 25%;
+}
+.menu-colo li:hover{
+  background-color: #3B67CD;
+  color: white;
+}
+.menu-colo a:hover{
+  background-color: #3B67CD;
+  color: white;
+}
+aside ul{
+  border: solid 1px #A4B2B0;
+  border-radius: 5px;
+}
+.bord{
+  border-bottom: solid 1px #A4B2B0;
+}
+.menu-colo li{
+  padding: 10px 0 10px 0;
+  list-style: none;
+  font-size: 18px;
+}
+.menu-colo a{
+  margin-left: 13px;
+  text-decoration: none;
+  color: #585C5E;
+  font-weight: lighter;
+}
+
+.droite-rose{
+  float:right;
+}
+.droite{
+  float:right;
+}
+.produit h1{
+  font-size: 20px;
+  font-weight: lighter;
+  padding: 19px 0 19px 10px;
+  float:left;
+}
+.produit a{
+  text-decoration: none;
+  color:#3B67CD;
+}
+.gras{
+  font-weight: bolder;
+}
+.produit p{
+  padding: 5px 0 5px 10px;
+}
+.text {
+  line-height:26pt;
+  padding: 5px 0 5px 10px;
+}
+.prix{
+  padding-top: 18px;
+  font-size: 20px;
+  /*margin-left: 90%;*/
+  float:right;
+}
+.produit{
+  border: solid 1px #E8EAEA;
+  border-radius: 3px;
+  width: 802px;
+  float: left;
+  margin-left: 75px;
+  margin-top: 15px;
+}
+#bouton{
+  height: 32px;
+  width: 130px;
+  background-color: #34CE52;
+  border-radius: 3px;
+  padding: 7px 2px;
+  margin: 17px;
+  /*margin-left: 83%;*/
+  border: solid 1px #25A837;
+  float:right;
+}
+#bouton a{
+  text-decoration: none;
+  color:white;
+  padding:2px;
+}
+.commentaires article{
+  /*float:left;*/
+  border-top: solid 1px #E8EAEA;
+  height:80px;
+  padding-top: 14px;
+
+}
+.commentaires{
+  border: solid 2px #E8EAEA;
+  border-radius: 2px;
+  width: 804px;
+  margin-left: 367px;
+  margin-top: 15px;
+  background-color: #EDEFEF;
+  padding:0 13px;
+}
+footer{
+  border-top: solid 1px #E8EAEA;
+  padding: 55px 0;
+  margin-top: 35px;
+
+}
+.rose{
+  color: #E3B5E2;
+  padding: 10px;
+}
