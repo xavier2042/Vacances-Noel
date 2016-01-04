@@ -109,8 +109,8 @@ aside ul{
 .prix{
   padding-top: 18px;
   font-size: 20px;
-  /*margin-left: 90%;*/
   float:right;
+  margin-left: 10px;
 }
 .produit{
   border: solid 1px #E8EAEA;
@@ -136,7 +136,6 @@ aside ul{
   padding:2px;
 }
 .commentaires article{
-  /*float:left;*/
   border-top: solid 1px #E8EAEA;
   height:80px;
   padding-top: 14px;
