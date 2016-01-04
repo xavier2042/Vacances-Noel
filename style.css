@@ -126,8 +126,7 @@ aside ul{
   background-color: #34CE52;
   border-radius: 3px;
   padding: 7px 2px;
-  margin: 17px;
-  /*margin-left: 83%;*/
+  margin: 17px 0;
   border: solid 1px #25A837;
   float:right;
 }
